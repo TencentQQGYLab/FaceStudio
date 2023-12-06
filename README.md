@@ -1,7 +1,11 @@
 # Official Repo for FaceStudio
+<a href='https://icoz69.github.io/facestudio'><img src='https://img.shields.io/badge/Project-Page-green'></a> 
+<a href='https://arxiv.org/abs/2312.02663'><img src='https://img.shields.io/badge/Technique-Report-red'></a> 
+[![GitHub](https://img.shields.io/github/stars/xyynafc/FaceStudio?style=social)](https://github.com/xyynafc/FaceStudio/)
+
 **FaceStudio: Put Your Face Everywhere in Seconds**
 
-Yuxuan Yan, [Chi Zhang](https://icoz69.github.io/), Rui Wang, Pei Cheng, Bin Fu, Gang Yu
+*Yuxuan Yan, [Chi Zhang](https://icoz69.github.io/), Rui Wang, Yichao Zhou, Gege Zhang, Pei Cheng, Bin Fu, Gang Yu*
 
 
 
